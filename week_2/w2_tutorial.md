@@ -21,7 +21,8 @@
 | True | True | False | False |
 | True | True | True | True |
 
-* **2.1. Diagram:** ![Flowchart Diagram](![alt text](image.png))
+
+![alt text](image-1.png)
 * **2.3. Step-by-Step Solution:**
   1. Ask the user for their age.
   2. Ask the user if they are accompanied by an adult (yes/no).
