@@ -1,1 +1,1 @@
-![Food Delivery Demo](week_8/demo.gif)
+![Food Delivery Demo](demo.gif)
